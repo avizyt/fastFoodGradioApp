@@ -1,6 +1,8 @@
 # Interactive Gradio App for Fast Food Classification.
 
-![Images](https://github.com/avizyt/fastFoodGradioApp/blob/main/extras/example_SS.png?raw=True)
+<!-- ![Images](https://github.com/avizyt/fastFoodGradioApp/blob/main/extras/example_SS.png?raw=True) -->
+
+![Image](../main/extras/example_SS.png)
 
 ## How to run the app?
 
