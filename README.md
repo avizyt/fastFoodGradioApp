@@ -1,10 +1,9 @@
 # Interactive Gradio App for Fast Food Classification.
 
-<!-- ![Images](https://github.com/avizyt/fastFoodGradioApp/blob/main/extras/example_SS.png?raw=True) -->
-
-![Image](../main/extras/example_SS.png)
+![example_SS](https://user-images.githubusercontent.com/71291040/208067980-d5df7170-ad27-4309-8457-3798723b1926.png)
 
 ## How to run the app?
+
 
 1. Create Env using "conda create --name gradioApp python=3.9"
 2. start your env using "conda activate gradioApp"
